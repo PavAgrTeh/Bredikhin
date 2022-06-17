@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartHouse2236</string>
+    <string name="logotext">Нажмите для Продолжения</string>
+    <string name="logo1">imyge</string>
+    <string name="logotext2">Smart House</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="button1">Enter Your House</string>
+    <string name="button2">New Resident</string>
+    <string name="buttonimage1">New Resident</string>
+</resources>
